@@ -1,0 +1,153 @@
+body {
+	font-family: Arial, sans-serif;
+	margin: 0;
+	padding: 0;
+}
+header {
+	background-color: green;
+	color: #fff;
+	padding:1%;
+	text-align: center;
+  margin:0.5%;
+}
+div>.container{
+	background-color:green;
+  color:white ;
+	padding:0.5%;
+	margin:0.5%;
+}
+
+div ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	display: flex;
+	justify-content: space-evenly;
+}
+
+div li {
+	display: inline-block;
+}
+
+div a {
+	color: white;
+	text-decoration:none;
+	padding:10%;
+}
+div a:hover {
+	background-color: white;
+	color:black;
+}
+
+.container{
+	background-color:green;
+	color: white;
+	display:flex;
+	justify-content:space-around;
+	padding:0.8%;
+	margin:0.5%;
+}
+.item{
+	flex-basis: 100%;
+  text-align: center;
+  padding:6%;
+  margin:2rem;
+}
+.quote{
+  text-align:center;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 90%;
+}
+.irrigation{
+  background-position: cover;
+  width:99%;
+  height:30rem;
+  margin:0.5%;
+}
+.about-head{
+  text-align:center;
+  width:35%;
+  margin-left:33%;
+}
+#about{
+  float:left;
+  width:25%;
+  margin:0.5%;
+  margin-right:3%;
+  margin-top:2%;
+}
+.about-1{
+  margin-top:6%;
+  font-size: 23px;
+  margin-right:4%
+}
+.about-2{
+  font-size: 23px;
+  margin-right:4%
+}
+.pro-1{
+  margin-left:6%;
+  margin-right:6%;
+  margin-top:4%;
+  font-size:23px;
+
+}
+.pro-2,.pro-3,.pro-4,.pro-5{
+  margin-left:6%;
+  margin-right:6%;
+  margin-top:3%;
+  font-size:23px;
+}
+.blog-1{
+  margin-left:6%;
+  margin-right:6%;
+  margin-top:4%;
+  font-size:23px;
+}
+.blog-2,.blog-3,.blog-4,.blog-5,.blog-6{
+  margin-left:6%;
+  margin-right:6%;
+  margin-top:3%;
+  font-size:23px;
+}
+h2{
+  margin-left:6%;
+  font-size:28px;
+}
+.home-desc{
+  text-align:center;
+  width:70%;
+  margin-left:20%;
+  margin-top:4%;
+  margin-bottom:3%;
+  margin-right:4%;
+}
+.contact-head{
+  margin-top:4%;
+  margin-left:4%;
+}
+nav ul{
+  margin-left:4%;
+  font-size:23px;
+}
+.gmail{
+  margin-left:4%;
+}
+footer {
+	background-color: #eee;
+	padding: 10px;
+	text-align: center;
+  margin-top:4%;
+}
+.f-about{
+  margin-top:4%;
+}
+.f-contact{
+  margin-top:18.5%;
+}
+.f-product{
+  margin-top:5.95%;
+}
+
+
+
